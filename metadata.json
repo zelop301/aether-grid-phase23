@@ -1,0 +1,5 @@
+{
+  "name": "Aether Grid: Legacy Ascent",
+  "description": "Phase 23 player-first cyber-grid action vertical slice with React, Vite, React Three Fiber, Three.js, Zustand, persistent progression, adaptive combat, a multi-phase boss, checkpoints, accessibility, and Flux Cycle gameplay.",
+  "requestFramePermissions": []
+}

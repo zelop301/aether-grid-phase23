@@ -1,0 +1,43 @@
+export const RIDER_FIT = Object.freeze({
+  model: {
+    position: [0, 0.07, -0.1],
+    rotation: [-0.9, Math.PI, 0],
+    scale: 0.00116,
+  },
+  riderRoot: {
+    position: [0, 0.44, 0.02],
+  },
+  contacts: {
+    leftShoulder: [-0.18, 0.53, 0.03],
+    rightShoulder: [0.18, 0.53, 0.03],
+    leftElbow: [-0.34, 0.34, 0.34],
+    rightElbow: [0.34, 0.34, 0.34],
+    leftGrip: [-0.25, 0.43, 0.67],
+    rightGrip: [0.25, 0.43, 0.67],
+    leftHip: [-0.15, 0.08, -0.18],
+    rightHip: [0.15, 0.08, -0.18],
+    leftKnee: [-0.31, -0.09, 0.12],
+    rightKnee: [0.31, -0.09, 0.12],
+    leftFoot: [-0.22, -0.25, -0.66],
+    rightFoot: [0.22, -0.25, -0.66],
+  },
+  wheels: {
+    front: [0, 0.55, 1.25],
+    rear: [0, 0.55, -1.25],
+    radius: 0.55,
+  },
+  motion: {
+    bikeBank: 0.14,
+    driftBank: 0.25,
+    riderCounterLean: 0.018,
+    riderLateralShift: 0.05,
+    riderTurnTwist: 0.12,
+    riderForwardShift: 0.045,
+    accelerationPitch: 0.005,
+    maximumPitch: 0.045,
+    boostCrouch: 0.08,
+    brakeRise: 0.018,
+    baseRiderPitch: -0.2,
+    suspensionTravel: 0.012,
+  },
+})

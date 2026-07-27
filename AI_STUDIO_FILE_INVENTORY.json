@@ -1,0 +1,651 @@
+{
+  "fileCount": 129,
+  "totalBytes": 20569408,
+  "files": [
+    {
+      "path": ".github/workflows/deploy.yml",
+      "bytes": 1045,
+      "sha256": "fb995297dd790f1c0738437019b1a99920856d9e3e48a303870a01bebd2193a1"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 40,
+      "sha256": "8b8378701c1959713cba36d13fbb6ced9c3bf5a373467334db6f714247666147"
+    },
+    {
+      "path": "AETHER-GRID-ARCHITECTURE.md",
+      "bytes": 1369,
+      "sha256": "405705318d574fa04508dbe0354ab31a5edbb6fb563a4c629278f66b3e52381b"
+    },
+    {
+      "path": "AI_STUDIO_CREATIVE_DIRECTOR_PROMPT.md",
+      "bytes": 2128,
+      "sha256": "61e838d8f5aab6b5bfd58156fc30c893ed5353278e572934d5197197060db952"
+    },
+    {
+      "path": "AI_STUDIO_IMPORT_PROMPT.md",
+      "bytes": 1454,
+      "sha256": "9226d48aed0cff915a73d980718bf6384e494a78a417b4906250149b9ec2cd45"
+    },
+    {
+      "path": "AI_STUDIO_PROJECT_MANIFEST.json",
+      "bytes": 1113,
+      "sha256": "1c9d95d1fd48b6cb00be54b44b5a75ba39963d13957c110ac66b375334a2646b"
+    },
+    {
+      "path": "AI_STUDIO_TRANSFER_README.md",
+      "bytes": 834,
+      "sha256": "242f8a1578f3cd6a4e916c51b0891d92e0de7115c64d765e1b7f627e9fbf0037"
+    },
+    {
+      "path": "ASSET-CREDITS.md",
+      "bytes": 1150,
+      "sha256": "f4c2393f905c42cce089beeb1ccd6249da9d01a4763a3f0e7d7d8a20824d369e"
+    },
+    {
+      "path": "CORE-REBUILD-REPORT.md",
+      "bytes": 1796,
+      "sha256": "4a4f0a6f8d27580487b15c7b81b47f7b00eb790b982f0adc1f68bb3a3f8a1411"
+    },
+    {
+      "path": "CORE-REBUILD-TEST-REPORT.md",
+      "bytes": 1030,
+      "sha256": "7370f7de8f5b4310518354617f5caa4326daf99d960f1dd224d9e06b99ca6164"
+    },
+    {
+      "path": "DEPLOYMENT-GUIDE.md",
+      "bytes": 1046,
+      "sha256": "cae6be48752122eafcc40cf42c3693b74abff14b5bc45ff3bd22952abc272093"
+    },
+    {
+      "path": "PHASE-20-GENESIS-BREACH.md",
+      "bytes": 804,
+      "sha256": "3eebf3020b9a19ee23031cf73e14db6f4884e5461e0efc39ad79189687066301"
+    },
+    {
+      "path": "PHASE-20-TEST-REPORT.md",
+      "bytes": 881,
+      "sha256": "a0d0a0d623816ee74cda3800e57e62a938602d9dbc75562320b3494978986f17"
+    },
+    {
+      "path": "PHASE-21-TEST-REPORT.md",
+      "bytes": 1154,
+      "sha256": "f7af406d8cf86ca27a775d0d342b8a9d4b5108fecdc5ff9be0d5ace5490c7ce4"
+    },
+    {
+      "path": "PHASE-21-WARDEN-ASCENSION.md",
+      "bytes": 1532,
+      "sha256": "d800a37fac2e640cc27331bf8aa613cb3de05e16ad9b64ef08df385dbdfac840"
+    },
+    {
+      "path": "PHASE-22-ADAPTIVE-FRONT.md",
+      "bytes": 1594,
+      "sha256": "d6507179aa9de9afab42d1b774719e4768fbd9c1dd4942c100ed714bff8ee5e0"
+    },
+    {
+      "path": "PHASE-22-TEST-REPORT.md",
+      "bytes": 1221,
+      "sha256": "9a0193612ff69e25634df03bfd56850d14a6ece14ef11ff6c375efcc12987ecd"
+    },
+    {
+      "path": "PHASE-23-LEGACY-ASCENT.md",
+      "bytes": 1698,
+      "sha256": "956fbcf2bc1951ae1d35fde5b18871bab3f5deeae9ec43d2b750c4b72d9cbcf9"
+    },
+    {
+      "path": "PHASE-23-TEST-REPORT.md",
+      "bytes": 1942,
+      "sha256": "11090839d6ec11dfd42265356a8e5bc4083c9574101d9a997f26a4d723439f01"
+    },
+    {
+      "path": "PLAYER-TESTING-CHECKLIST.md",
+      "bytes": 1157,
+      "sha256": "f3c07e3309db9b602b515c1bb0ded27da146981f6055d0464b3358d6acf5b55b"
+    },
+    {
+      "path": "PRODUCTION-ASSET-POLICY.md",
+      "bytes": 558,
+      "sha256": "48d9b10c805acd3259e599774cc9fd341aa36ebd167ce9bd882a55f0b9955815"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4346,
+      "sha256": "e6ac2c5e4e61a0c05ae701fb2d727c600e42442cd5751e6328e5807384ff339e"
+    },
+    {
+      "path": "START-PROJECT.bat",
+      "bytes": 696,
+      "sha256": "05cf962aa588d7f084092a58be3114fd606d08d0ef4d3d21702a2f25760baa15"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1682,
+      "sha256": "a47114c61cdfe88607622b463a2b2abb4a1bdb6a5be71ac820b5f788bcd88e50"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 321,
+      "sha256": "fa39a4b1fbf38ee6e2a28073e926b9d3e1b15f6bc5dfcb81c415abda586accc6"
+    },
+    {
+      "path": "package.json",
+      "bytes": 2139,
+      "sha256": "92562fd235395f26585fcac55e12cde6a77495bbc2644ac85ab9510589cc1344"
+    },
+    {
+      "path": "public/assets/asset-manifest.json",
+      "bytes": 2742,
+      "sha256": "5616893d6a0ceb0bface556e68e72af7e1c7cddc5f4ef2e4437c213de4f74559"
+    },
+    {
+      "path": "public/assets/models/aether-city.glb",
+      "bytes": 2815064,
+      "sha256": "26c5403db3dd73435b251a371864bedd237e685c696a1ef0eb1ee5baf72ddec0"
+    },
+    {
+      "path": "public/assets/models/aether-core-rings.glb",
+      "bytes": 778836,
+      "sha256": "f422c9cb6fe513cda2531443d74c06b8d3a2d0c34e3b4da7fd0052ea6da2df47"
+    },
+    {
+      "path": "public/assets/models/cipher-runner.glb",
+      "bytes": 3018592,
+      "sha256": "65344a3a84ffc937035403089f04a2c5e9e92767770bf94bca151e6502a43941"
+    },
+    {
+      "path": "public/assets/models/civilian-runner.glb",
+      "bytes": 26684,
+      "sha256": "80f001cc5cc99f5ae255858157f40bb1aada395190ca0b9a75a644983fded61f"
+    },
+    {
+      "path": "public/assets/models/flux-cycle.glb",
+      "bytes": 1672956,
+      "sha256": "9c98dad8cb72777a0625fc6d95b2628afd815b6129587b25b9880c0e4d6f960c"
+    },
+    {
+      "path": "public/assets/models/genesis-hallway.glb",
+      "bytes": 19788,
+      "sha256": "0d7d52eec6681a4659675917231c1fa841dd3948518bd112e4c40eb3cfa28004"
+    },
+    {
+      "path": "public/assets/models/rider-fallback.glb",
+      "bytes": 881348,
+      "sha256": "c8c732a55f6b9bb54be5b2b7adde183afea9680819e8dc726f1230752f4d7715"
+    },
+    {
+      "path": "public/assets/models/rival-flux-cycle.glb",
+      "bytes": 17852,
+      "sha256": "cfba012a1937afd2a9011e239276633708c0cf1e94d3b63dfb33f87372863b26"
+    },
+    {
+      "path": "public/assets/models/security-runner.glb",
+      "bytes": 27024,
+      "sha256": "f3af886a0927499609fc29dde4b96465b5d0ece7d22f46842845f3428eacbc81"
+    },
+    {
+      "path": "public/assets/models/transit-tunnel.glb",
+      "bytes": 2054348,
+      "sha256": "279f0924a287c8bd675715a3e85b07f716821ec8aa3dd8b86cd787c963dc081a"
+    },
+    {
+      "path": "public/assets/models/vector-arsenal.glb",
+      "bytes": 2177880,
+      "sha256": "405e27d3f3787701c12dbd5694cb4462209e93ba245cc9ce04c0c45e84d4b60d"
+    },
+    {
+      "path": "public/assets/models/vector-jet.glb",
+      "bytes": 385176,
+      "sha256": "ddf949ff76dc2b7236db4de42050e44ab0ef7a4b59ecb85a2142d49dd73659c5"
+    },
+    {
+      "path": "public/assets/models/warden-interceptor.glb",
+      "bytes": 753388,
+      "sha256": "b3084af392b274e6a7cf8a9f3b814be5f3e106e83a2c71c32aea68732b618a99"
+    },
+    {
+      "path": "public/assets/models/warden-runtime.glb",
+      "bytes": 5391076,
+      "sha256": "6537976f39d9243ec6affb89f9a1366c0dcd66e4261e21d3d196bcbdfb1175d8"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 296,
+      "sha256": "742a64a53a14d204a7b5b1544e4a3517fade45cc7055a2ee6cdfe01c349a2b1f"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "bytes": 562,
+      "sha256": "a28b57e52cb2be6eae8a4497e2de1d38dfd86dcb6caf7bd9cce789d8709eb24e"
+    },
+    {
+      "path": "public/sw.js",
+      "bytes": 1391,
+      "sha256": "97c390f0f2ec78247f6d1002bd06a857d7fab25117c63d23d0dd94285361f96d"
+    },
+    {
+      "path": "scripts/check-assets.mjs",
+      "bytes": 2689,
+      "sha256": "0646449707fcbe9b91a6329101a28b9434c8c72886b28335a84f7023bd224865"
+    },
+    {
+      "path": "scripts/check-autopilot.mjs",
+      "bytes": 2733,
+      "sha256": "be77c36665c76caaa5d2b7511224ca193c38a6f8bf75cd20c97ded90d7b29923"
+    },
+    {
+      "path": "scripts/check-combat-core.mjs",
+      "bytes": 2756,
+      "sha256": "c51f25ab7a29c60edc808ac8a506841ceb6d572e370c79ebbbc661e0cefa465f"
+    },
+    {
+      "path": "scripts/check-core-rebuild.mjs",
+      "bytes": 1877,
+      "sha256": "28f44629cf94cf37bf4aadd5256aa9bf55e5699d7f0724821a5d2e2d46b124f3"
+    },
+    {
+      "path": "scripts/check-operator-autorig.mjs",
+      "bytes": 972,
+      "sha256": "08cfa93a1cc4f6a09e7b9be790d916ce52a9c4d57ead4b7d1a6db2e95ebc4083"
+    },
+    {
+      "path": "scripts/check-phase20.mjs",
+      "bytes": 999,
+      "sha256": "56509e71c9a4d9249ac6c80fff4c98f1e1d5fda2f9863b11c94749984189a102"
+    },
+    {
+      "path": "scripts/check-phase21-state.mjs",
+      "bytes": 1628,
+      "sha256": "f55b90feade1e4a089422943f6262796f4d1db15f28f2c5ccbde8bde1f6c892a"
+    },
+    {
+      "path": "scripts/check-phase21.mjs",
+      "bytes": 1928,
+      "sha256": "efa443a905a12e7d16c5af01b498be3d82488ebedad61d914edc52abcfd19ac7"
+    },
+    {
+      "path": "scripts/check-phase22-state.mjs",
+      "bytes": 2034,
+      "sha256": "2a7cb99c5b593ba831492b4306074bf9ee4cf6e5efec4883f6895e5c6cdc76ed"
+    },
+    {
+      "path": "scripts/check-phase22.mjs",
+      "bytes": 1808,
+      "sha256": "737a0f1ca123a0b7fc43f12108096725094f35aeadedf229e55bb22af5e7683d"
+    },
+    {
+      "path": "scripts/check-phase23-state.mjs",
+      "bytes": 2345,
+      "sha256": "2d14e9d1884b989212255d9c599b880e2f50fc892851751f7287fe1bb3362865"
+    },
+    {
+      "path": "scripts/check-phase23.mjs",
+      "bytes": 2930,
+      "sha256": "801f421e6337bb8de9a04cd302c515af68c65000ee4452c90b2f7077cc60c99e"
+    },
+    {
+      "path": "scripts/check-production.mjs",
+      "bytes": 1443,
+      "sha256": "947d7e4154b67e04cffc3ae1f255d518a712abc928a470e3ee7e98da1fdc1917"
+    },
+    {
+      "path": "scripts/check-rider-rig.mjs",
+      "bytes": 2265,
+      "sha256": "23ddb1c578034524defa3a75907e1444d67eaac77d5c6344fb01ce4b1671ec36"
+    },
+    {
+      "path": "scripts/check-source.mjs",
+      "bytes": 2371,
+      "sha256": "d4f5408da74ea1b5104952f8dfe5862d6877817735a7b8da749e1074943c373e"
+    },
+    {
+      "path": "scripts/check-state.mjs",
+      "bytes": 5780,
+      "sha256": "6af490c6e925ebda42b80b87aa4fc97cd2c4c96f351a4434bf674920b7ae1376"
+    },
+    {
+      "path": "scripts/check-vehicle-stability.mjs",
+      "bytes": 1700,
+      "sha256": "25c2f05d73d8ae4518051c6678964fa9796977a8adf763ca67278fc45eb51c50"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 3142,
+      "sha256": "91808110067147070b8f17da5ad1c1c40dfec698c85288e4980d39c0b8ec4f45"
+    },
+    {
+      "path": "src/audio/AudioDirector.jsx",
+      "bytes": 4356,
+      "sha256": "01f79e60c9e64f48b7b99e10aecd3cddf4fdc07b849ca96369aaabb4fdfe99d3"
+    },
+    {
+      "path": "src/audio/audioEngine.js",
+      "bytes": 7118,
+      "sha256": "738ef77821487da9ec72575ba255f4ffd148b04073ebbb89be64a01cac25b591"
+    },
+    {
+      "path": "src/core/assetRegistry.ts",
+      "bytes": 3388,
+      "sha256": "1d3d197446829cd8f4d38ee70f239141abf9105748f06eca685365d1d621fafe"
+    },
+    {
+      "path": "src/core/gameIdentity.ts",
+      "bytes": 179,
+      "sha256": "1f364e45bf304f471bb222e82b4fba9c400ea8591396db8075b1bf3c99e60530"
+    },
+    {
+      "path": "src/core/performanceBudget.ts",
+      "bytes": 253,
+      "sha256": "6e0ac4cd4d8b77b9f658d177ae8a71fced3a23480121d3e93b4decb6b7f10ef9"
+    },
+    {
+      "path": "src/core/preloadCoreAssets.ts",
+      "bytes": 1695,
+      "sha256": "4a7873870cc4b102723ef4ea7a289a5c8282934d0b4828446de7eb3dd33833de"
+    },
+    {
+      "path": "src/core/progression.js",
+      "bytes": 6739,
+      "sha256": "ede88b292a7a388615e7517ae8b82ec818f8a63613240f3d62fa7598f9d7887e"
+    },
+    {
+      "path": "src/game/GameCanvas.jsx",
+      "bytes": 1536,
+      "sha256": "6e584ee2cc323a1d0b97780222aaeaca768a51bffb867867eb879cf5e0ce5722"
+    },
+    {
+      "path": "src/game/World.jsx",
+      "bytes": 6831,
+      "sha256": "3a30935f6a79a74909cb2964cede518c0b1bb9f2a417c6dea269919b362af6d9"
+    },
+    {
+      "path": "src/game/assets/ImportedAssets.jsx",
+      "bytes": 16426,
+      "sha256": "6768db7f62f7bd55100d19094df6f2aa388a82258259426dcc62a854fc3831e8"
+    },
+    {
+      "path": "src/game/combat/BossPhaseDirector.jsx",
+      "bytes": 1210,
+      "sha256": "c2f57dd24fa2e88901e002595e81d8ecab68a44defc45abaa3f4010a76fa1b1e"
+    },
+    {
+      "path": "src/game/combat/CombatDirector.jsx",
+      "bytes": 9452,
+      "sha256": "9b0838809549877ebf360d1c67a85d668724ca8cf5a13c8f825046749c12a145"
+    },
+    {
+      "path": "src/game/combat/CombatEffects.jsx",
+      "bytes": 4210,
+      "sha256": "52a51535e860c5784c5376b32e527ddb69086f9c6af05a27f66ad353045b9f93"
+    },
+    {
+      "path": "src/game/combat/FluxDisc.jsx",
+      "bytes": 5780,
+      "sha256": "b769a3f8cdf2bbabb75e16e7bea03707ed888c8d98124876d4fbed43f28a2df6"
+    },
+    {
+      "path": "src/game/enemies/EnemyDirector.jsx",
+      "bytes": 290,
+      "sha256": "e4ed3440d5476887095e685b2251365e76273a2fdeb3cc18acea93291715a870"
+    },
+    {
+      "path": "src/game/enemies/EnemyUnit.jsx",
+      "bytes": 19621,
+      "sha256": "7a4aa1cdea11ef8ff50cde5bf5718cd490e407ce4a4e903251a28398dcfc1212"
+    },
+    {
+      "path": "src/game/enemies/TacticalDirector.jsx",
+      "bytes": 2151,
+      "sha256": "b2eaf58132114b7ea50adc0f50531c39997727289a702cca966de31031fda093"
+    },
+    {
+      "path": "src/game/environment/AetherConduits.jsx",
+      "bytes": 4196,
+      "sha256": "fd8844054609dd56df7cfef5b3ba07090a28a240373699fc212838f2819a819a"
+    },
+    {
+      "path": "src/game/environment/BootEnvironment.jsx",
+      "bytes": 1546,
+      "sha256": "88cf6405d81a0c02a6100273588204c792371fc1668da10064b1e367d50fb9c0"
+    },
+    {
+      "path": "src/game/environment/NeonArena.jsx",
+      "bytes": 6820,
+      "sha256": "085dcc6780f9ce225040772fb41d0a767c33f879f1115400cb23e6f3f70ee946"
+    },
+    {
+      "path": "src/game/environment/RaceEnvironment.jsx",
+      "bytes": 5667,
+      "sha256": "4d22d578a38641d9b7565449ff885a8c8de758dd80479863b41d2adb518efc5f"
+    },
+    {
+      "path": "src/game/pickups/PickupDirector.jsx",
+      "bytes": 640,
+      "sha256": "7617068b29edbc6b2ce0ddd32e1a71167e8d94a78965b0ba1515c65b20393056"
+    },
+    {
+      "path": "src/game/pickups/RepairNode.jsx",
+      "bytes": 1611,
+      "sha256": "ede5481fdedb7d6ee1c020e92862a8a5d2ccd62c7ebc90b5c7bf3256eccd9472"
+    },
+    {
+      "path": "src/game/player/AutoRigOperator.jsx",
+      "bytes": 13913,
+      "sha256": "357cd4d6767d4675c6d762b4e5921cb47792fb49bb2a6179d13efbe81a9c407f"
+    },
+    {
+      "path": "src/game/player/OperatorMotionRig.jsx",
+      "bytes": 1534,
+      "sha256": "4173b54c5993935e025f984415e1def73a0aee4901427f596074db72d9219dd7"
+    },
+    {
+      "path": "src/game/player/Player.jsx",
+      "bytes": 9892,
+      "sha256": "93d06e839de9cd156c62fedcfb5c42802c0afb801c67df41a274b188c53c9763"
+    },
+    {
+      "path": "src/game/player/rapidPunchingSource.js",
+      "bytes": 556,
+      "sha256": "b1b46d72e3fe87815c8e0aeee24b832c4eaeb85f13ea62737fe3d086a1960786"
+    },
+    {
+      "path": "src/game/race/CyclePlayer.jsx",
+      "bytes": 13063,
+      "sha256": "e9073a1512608dbdba4abfa6e2d4323d03023bb53900267df7089487dd0ee723"
+    },
+    {
+      "path": "src/game/race/CycleVehicleRig.jsx",
+      "bytes": 8510,
+      "sha256": "fadd6e67d3fe31dfa992e2a3498691d642e245e042dcfc43996db5c91154b7e8"
+    },
+    {
+      "path": "src/game/race/EnergyTrail.jsx",
+      "bytes": 2841,
+      "sha256": "1a77a034b7c725053dda7be3aa639d9ad197df03b0a57e42d4bef77b76a2c9ba"
+    },
+    {
+      "path": "src/game/race/RaceDirector.jsx",
+      "bytes": 2046,
+      "sha256": "8d95d28991665ad42b769486a6f1369eace171484086469a197db43ea904c69d"
+    },
+    {
+      "path": "src/game/race/RaceRivals.jsx",
+      "bytes": 329,
+      "sha256": "be5650487a40d602cfe05b7e9be560707730e1649829f1f954bdbf1fea0433e2"
+    },
+    {
+      "path": "src/game/race/RaceTrack.jsx",
+      "bytes": 6029,
+      "sha256": "b5bf19575a286ce5d7c673ff16e07bf77ebf9e56387c8b9282ef12ad6f0d269c"
+    },
+    {
+      "path": "src/game/race/RivalCycle.jsx",
+      "bytes": 1988,
+      "sha256": "c1af6b51188f77db7d9e097ebd3bd1e10caa1fc868fb4aa6dffacb942f529ff8"
+    },
+    {
+      "path": "src/game/race/raceConfig.js",
+      "bytes": 1408,
+      "sha256": "86471469eed2256144c77ca55cf5a39c55d9f079977aab0fc6ed573166cd0967"
+    },
+    {
+      "path": "src/game/race/riderFitConfig.js",
+      "bytes": 1069,
+      "sha256": "bf74e419377857ef2f6471ac46f2e09af8a0db8aa3abf2e89f30caf6c7f1d0e2"
+    },
+    {
+      "path": "src/game/race/vehicleModel.js",
+      "bytes": 3434,
+      "sha256": "ca96bf9f7a764fa2ad5fb1f36c05c4946c758bc5aa8f98b06983b298bba8a29c"
+    },
+    {
+      "path": "src/game/story/StoryDirector.jsx",
+      "bytes": 2617,
+      "sha256": "8dd878c987a89601182f920df30e798db75011bf991866cf2bd185548a69dae1"
+    },
+    {
+      "path": "src/game/story/StoryTerminal.jsx",
+      "bytes": 2874,
+      "sha256": "32c8c4be37fdb0a8b7cae4dfda8fd2ed2059e38d1c9133870cc163ad0e350a55"
+    },
+    {
+      "path": "src/game/systems/FrameMonitor.jsx",
+      "bytes": 548,
+      "sha256": "4c3ebc61d3ab429590ecb3ebdbd4764789c817ba2fe75d183c6bf6c642bee0f2"
+    },
+    {
+      "path": "src/game/systems/PhotoCameraController.jsx",
+      "bytes": 3647,
+      "sha256": "c41d78bdef159c38a8db274d8b484a46080c2a2c9083330278286521b49cea37"
+    },
+    {
+      "path": "src/game/systems/RenderTuning.jsx",
+      "bytes": 372,
+      "sha256": "d3eb6382bf1f0ff5576e32c5a9fc468489aaf2d178c87f278907d21ca9fe2e3b"
+    },
+    {
+      "path": "src/game/systems/ScreenshotBridge.jsx",
+      "bytes": 4321,
+      "sha256": "d7179176c0bd43235eeeb9d8b36580d2badf53cfbe11c5b4907522be07391263"
+    },
+    {
+      "path": "src/game/vertical/GenesisBreachEnvironment.jsx",
+      "bytes": 3061,
+      "sha256": "2473997efda29be465472706aa0c854717e17fb23db9c88d4fda43b72dbacb7b"
+    },
+    {
+      "path": "src/game/vertical/VerticalEscapeCycle.jsx",
+      "bytes": 8120,
+      "sha256": "6d2f296fcb1f3ee5c184ea9ee1775bf29066d5caea8ec77f8491e5713e8c445c"
+    },
+    {
+      "path": "src/game/vertical/VerticalEscapeTrack.jsx",
+      "bytes": 3176,
+      "sha256": "7a0fe1909fee7777e5b3e02bedb8309cb0824c1e8b4739a1005ac22a13b521ef"
+    },
+    {
+      "path": "src/game/vertical/VerticalSliceDirector.jsx",
+      "bytes": 1962,
+      "sha256": "ea0629f2ef14eb085f2b124550bbf690236a9de0c2e14a784b72b562bdf4d7d9"
+    },
+    {
+      "path": "src/hooks/useGamepadInput.js",
+      "bytes": 5851,
+      "sha256": "70014eec7e0e15d046d7080dd58e986b6576b5f07ade9f1b5a9d8f9c3af362ef"
+    },
+    {
+      "path": "src/hooks/useKeyboardInput.js",
+      "bytes": 7216,
+      "sha256": "fc39bf35265917263403f00049811c157d459d31ca58b22b2b4f0b1daf1d387b"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 330,
+      "sha256": "6e9f896a057b728f1ccfb523dc838bea87718524d8a014b96179f13d6bcfc65f"
+    },
+    {
+      "path": "src/release/registerServiceWorker.js",
+      "bytes": 302,
+      "sha256": "024b523a0eddc21d81d823f3b0d3e569d2050d2086f11d74e139a4fbd50e2bd8"
+    },
+    {
+      "path": "src/release/releaseData.js",
+      "bytes": 4621,
+      "sha256": "0e5b078bbf5b3778a5843d96b7880b258e9c48c48c0c152bce02aef4ca994ba1"
+    },
+    {
+      "path": "src/store/useGameStore.js",
+      "bytes": 63249,
+      "sha256": "29b7214511d4cdbbbe7c6c09f66a3de2c1d08ac11787a4c06bbbc7b14512a0b4"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 89264,
+      "sha256": "fbac337c07a160544fc3782a9fb038de49e3a848c84ba2ea7da83dfd46fceab1"
+    },
+    {
+      "path": "src/ui/BootScreen.jsx",
+      "bytes": 11352,
+      "sha256": "18b4a83dc6ef750ab0650b605b0505238412c8f36f2c9dcdbf639daf99113dc5"
+    },
+    {
+      "path": "src/ui/CinematicLayer.jsx",
+      "bytes": 2309,
+      "sha256": "a6bac792dc5181b9c5f15defbcde719138a137fab30c7429dc8709b067cdf8cb"
+    },
+    {
+      "path": "src/ui/GameErrorBoundary.jsx",
+      "bytes": 1167,
+      "sha256": "e1e93accbe9106e43c7c4b2b59b4b64a823efa48449167d71ad0d4f0aae1c5b7"
+    },
+    {
+      "path": "src/ui/HUD.jsx",
+      "bytes": 27018,
+      "sha256": "a70bccf23fae6893291d31f941b549a10f4ae957584b52974fecd4fc92a6e41c"
+    },
+    {
+      "path": "src/ui/MobileControls.jsx",
+      "bytes": 5951,
+      "sha256": "799be685cf03d3467744e7fa6d9b27f49219b86de29e7dc04b56b04732639660"
+    },
+    {
+      "path": "src/ui/OnboardingOverlay.jsx",
+      "bytes": 3880,
+      "sha256": "6c45380ed3346cd073697af570c133538c0ce4bd46b2c2e7fe7aafcd905a056f"
+    },
+    {
+      "path": "src/ui/OutcomeOverlay.jsx",
+      "bytes": 9409,
+      "sha256": "2bc388f2d331091dbce623474414e7dcbc6762ff185309063957fb5d61efdd86"
+    },
+    {
+      "path": "src/ui/ReleasePanels.jsx",
+      "bytes": 7942,
+      "sha256": "6dd99a65bd899a43ac4ebb1b5e3453f773a6fdddc72966e69e2e9ba64398c331"
+    },
+    {
+      "path": "src/ui/StoryOverlay.jsx",
+      "bytes": 5859,
+      "sha256": "b2035d484766d796657f5dcebd7ae5d86fb9c7d28ad6e903f47039b6b76bd58d"
+    },
+    {
+      "path": "src/ui/SystemOverlay.jsx",
+      "bytes": 12255,
+      "sha256": "d8fa718197254519d7a7287529b04005ba01af4beb35af09b7e5bc8276d4f03f"
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "bytes": 111,
+      "sha256": "cfe0500bdfc06f29006f1f0ccd26aacef38bce6e6f84617998321945e4621040"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 638,
+      "sha256": "e25074ba355ba4e4f0ffc651627c893c7fe6be7eee7ababa5854c963449b3410"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 526,
+      "sha256": "245ba7fbec240b05217489c1d95fa3a2b29f1ec6f5f145daa6ebd35e6be72595"
+    }
+  ]
+}

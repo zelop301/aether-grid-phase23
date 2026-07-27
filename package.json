@@ -1,0 +1,42 @@
+{
+  "name": "aether-grid-legacy-protocol",
+  "private": true,
+  "version": "3.4.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "check": "node scripts/check-source.mjs",
+    "check:core": "node scripts/check-core-rebuild.mjs",
+    "check:phase20": "node scripts/check-phase20.mjs",
+    "check:production": "node scripts/check-production.mjs",
+    "check:assets": "node scripts/check-assets.mjs",
+    "check:rider": "node scripts/check-rider-rig.mjs",
+    "check:autorig": "node scripts/check-operator-autorig.mjs",
+    "check:stability": "node scripts/check-vehicle-stability.mjs",
+    "check:autopilot": "node scripts/check-autopilot.mjs",
+    "check:combat": "node scripts/check-combat-core.mjs",
+    "test:state": "node scripts/check-state.mjs",
+    "validate": "npm run typecheck && npm run check && npm run check:core && npm run check:phase20 && npm run check:phase21 && npm run check:phase22 && npm run check:phase23 && npm run check:production && npm run check:assets && npm run check:rider && npm run check:autorig && npm run check:stability && npm run check:autopilot && npm run check:combat && npm run test:state && npm run build",
+    "release": "npm run validate",
+    "check:phase21": "node scripts/check-phase21.mjs && node scripts/check-phase21-state.mjs",
+    "check:phase22": "node scripts/check-phase22.mjs && node scripts/check-phase22-state.mjs",
+    "check:phase23": "node scripts/check-phase23.mjs && node scripts/check-phase23-state.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest"
+  },
+  "description": "Player-first cyber-grid action game with persistent operator progression, mission contracts, challenge modifiers, adaptive enemy squads, multi-phase boss combat, checkpoints, controller support, Flux Cycle handling, and adaptive graphics."
+}

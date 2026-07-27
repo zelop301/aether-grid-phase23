@@ -1,0 +1,84 @@
+{
+  "release": "3.0.0",
+  "title": "Aether Grid: Legacy Protocol",
+  "integration": "CORE REBUILD \u2014 UNIFIED CAMPAIGN, PLAYER-FIRST UI, PRODUCTION ASSET CLEANUP",
+  "runtimeAssets": [
+    {
+      "file": "assets/models/cipher-runner.glb",
+      "subject": "Cipher Runner",
+      "usage": "Player character in campaign and arena"
+    },
+    {
+      "file": "assets/models/rider-fallback.glb",
+      "subject": "Rider fallback",
+      "usage": "Low-cost riding fallback"
+    },
+    {
+      "file": "assets/models/vector-arsenal.glb",
+      "subject": "Vector Disc arsenal",
+      "usage": "Disc combat and archive display"
+    },
+    {
+      "file": "assets/models/aether-core-rings.glb",
+      "subject": "Aether Core",
+      "usage": "Central story landmark"
+    },
+    {
+      "file": "assets/models/warden-interceptor.glb",
+      "subject": "Warden interceptor",
+      "usage": "Aerial security patrol"
+    },
+    {
+      "file": "assets/models/transit-tunnel.glb",
+      "subject": "Transit tunnel",
+      "usage": "Campaign escape and Velocity Trial"
+    },
+    {
+      "file": "assets/models/flux-cycle.glb",
+      "subject": "Flux Cycle",
+      "usage": "Player vehicle"
+    },
+    {
+      "file": "assets/models/rival-flux-cycle.glb",
+      "subject": "Rival Flux Cycle",
+      "usage": "Optimized rival vehicle"
+    },
+    {
+      "file": "assets/models/warden-runtime.glb",
+      "subject": "Warden programs",
+      "usage": "Enemy character model"
+    },
+    {
+      "file": "assets/models/aether-city.glb",
+      "subject": "Aether City",
+      "usage": "Quality-gated skyline"
+    },
+    {
+      "file": "assets/models/vector-jet.glb",
+      "subject": "Vector jet",
+      "usage": "Ambient aerial patrol"
+    },
+    {
+      "file": "assets/models/civilian-runner.glb",
+      "subject": "Civilian runner",
+      "usage": "Ambient traffic"
+    },
+    {
+      "file": "assets/models/security-runner.glb",
+      "subject": "Security runner",
+      "usage": "Relay Alpha vehicle"
+    },
+    {
+      "file": "assets/models/genesis-hallway.glb",
+      "subject": "Genesis hallway",
+      "usage": "Campaign corridor"
+    }
+  ],
+  "productionRules": [
+    "Source FBX, Maya, Blender, USDZ, ZIP, and RAR files are excluded from the player build.",
+    "Runtime model paths, scale, collision role, LOD class, and preload priority are centralized in src/core/assetRegistry.js.",
+    "Critical opening assets are fetched with real byte progress before the main menu is revealed.",
+    "Optional environment assets remain quality-gated and mode-specific."
+  ],
+  "licenseNotice": "Models were supplied by the project owner. Verify ownership, redistribution permission, and attribution requirements before public or commercial release."
+}

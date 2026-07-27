@@ -1,0 +1,34 @@
+{
+  "project": {
+    "title": "Aether Grid: Legacy Ascent",
+    "phase": 23,
+    "framework": "React + Vite",
+    "rendering": "Three.js via @react-three/fiber and @react-three/drei",
+    "state": "Zustand",
+    "language": ["JavaScript", "JSX", "TypeScript"],
+    "entry": "src/main.jsx",
+    "publicAssetManifest": "public/assets/asset-manifest.json",
+    "devCommand": "npm run dev",
+    "buildCommand": "npm run build",
+    "validationCommand": "npm run validate"
+  },
+  "preserve": [
+    "Genesis Breach campaign",
+    "three-stage encounter",
+    "three-phase Grid Warden boss",
+    "adaptive enemy tactics",
+    "Aether Conduits",
+    "persistent progression and contracts",
+    "keyboard, gamepad, and touch input",
+    "checkpoint recovery",
+    "Flux Cycle escape and autopilot",
+    "accessibility and graphics presets"
+  ],
+  "constraints": {
+    "targetHardware": "NVIDIA GT 1030, Ryzen 5 5600G-class CPU, 8 GB RAM",
+    "targetFps": "50-60 FPS on Medium",
+    "publicModelsMustRemainUnder": "public/assets/models/",
+    "noApiKeyRequired": true,
+    "noSourceAssetArchivesInPublicBuild": true
+  }
+}

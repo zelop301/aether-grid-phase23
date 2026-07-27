@@ -1,0 +1,11 @@
+{
+  "name": "Aether Grid: Legacy Protocol",
+  "short_name": "Aether Grid",
+  "description": "Original browser-based cyber-grid action game with persistent operator progression, mission contracts, challenge modifiers, accessible combat, Flux Cycle escape, checkpoints, controller support, and adaptive graphics.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "background_color": "#02070b",
+  "theme_color": "#02070b",
+  "orientation": "landscape",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

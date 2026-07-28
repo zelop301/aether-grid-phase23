@@ -327,6 +327,13 @@ function VerticalHUD() {
   const attackTokenLimit = useGameStore((state) => state.attackTokenLimit)
   const conduitsTriggered = useGameStore((state) => state.conduitsTriggered)
   const chargedConduits = useGameStore((state) => state.arenaConduits.filter((conduit) => conduit.active).length)
+  const selectedDoctrine = useGameStore(
+  (state) => state.selectedDoctrine || 'balanced'
+)
+
+const activeRunModifier = useGameStore(
+  (state) => state.activeRunModifier || 'standard'
+)
   const healthPercent = (health / maxHealth) * 100
 
   let tutorialTitle = 'FOLLOW THE CYAN SIGNAL'
